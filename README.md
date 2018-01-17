@@ -1,6 +1,4 @@
-1. The monolithic file can be run directly. Example usage is avaialable in comments. 
-
-2. The Client-Server model first needs the server to be started up. Then run all clients. 
+1. Tut2 multi-threaded server implementation. 
 
 Assignment done by:- 
 Balakarthikeyan - 151080054
