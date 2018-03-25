@@ -1,0 +1,32 @@
+{
+    "google": {
+        "id":1,
+        "name":"Google India",
+        "ctc":27.5,
+        "criteria":5.0
+    },
+    "microsoft": {
+        "id":2,
+        "name":"Microsoft India",
+        "pointer":23.2,
+        "criteria":7.0
+    },
+    "pwc": {
+        "id":3,
+        "name":"Price WaterHouse Coopers",
+        "ctc":7.5,
+        "criteria":7.0
+    },
+    "morgan_stanley": {
+        "id":4,
+        "name":"Morgan Stanley",
+        "ctc":16.7,
+        "criteria":8.0
+    },
+    "directi": {
+        "id":5,
+        "name":"Directi",
+        "ctc":20.0,
+        "criteria":6.5
+    }
+}

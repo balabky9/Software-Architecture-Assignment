@@ -1,0 +1,27 @@
+{
+    "akhilesh": {
+        "id":1,
+        "name":"Akhilesh Chobey",
+        "pointer":7.5
+    },
+    "piyush": {
+        "id":2,
+        "name":"Piyush Pawar",
+        "pointer":7.2
+    },
+    "farhan": {
+        "id":3,
+        "name":"Farhan",
+        "pointer":9.5
+    },
+    "bala": {
+        "id":4,
+        "name":"Balakarthikeyan",
+        "pointer":9.0
+    },
+    "abd": {
+        "id":5,
+        "name":"Abdullah",
+        "pointer":7.0
+    }
+}
